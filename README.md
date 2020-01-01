@@ -1,6 +1,6 @@
 ### Cpp_FunctionsForWorkingWithAOneDimensionalDynamicArray
 
-`void dynamicArrayOne(int*& arr1, int& size); // Функция распределения динамической памяти одномерного массива``
+`void dynamicArrayOne(int*& arr1, int& size); // Функция распределения динамической памяти одномерного массива`
 `void initializingOneDimensionalDynamicArray(int*& arr, int& size); // Функция инициализации динамического массива`
 `void printingOneDimensionalArray(int*& arr, int& size); // Функция печати одномерного динамического массива`
 `void deletingOneDimensionalArray(int*& arr); // Функция удаления динамического массива`
